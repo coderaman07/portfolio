@@ -1,0 +1,31 @@
+{
+    "name":"Aman Ojha",
+    "shortName": "Aman",
+    "designation": "Operations Executive - Trainee",
+    "dreamDesignation":"Software Engineer",
+    "keywords":"coding, coding ninjas, coding blocks, what is coding, medical coding, coding meaning, coding for kids, coding ninja, how to learn coding, coding schools, c programming, python programming, programming, dynamic programming, r programming, programming languages, object oriented programming, what is programming, c programming language, java programming, python, python online compiler, online python compiler, python download, python tutorial, w3schools python, python w3schools, python compiler, python programming, python interview questions, flutter, flutter meaning, flutter tutorial, flutter meaning in hindi, atrial flutter, flutter icon, flutter icons, what is flutter, flutter developer, javascript, javascript interview questions, javascript tutorial, w3schools javascript, what is javascript, javascript w3schools",
+    "description":"Tech Blogger and E-Sports Player. Technical Stack: JavaScript (React, Node.js, Next.js), Python (Django, Flask, PyQt), Java, Kotlin, Blockchain, Android.",
+    "domainName":"https://amanojha.ml",
+    "imageURI":"https://avatars.githubusercontent.com/u/54279831?s=400&u=66c997b6ce4e780969395dfea320a35d8461a690&v=4",
+    "blogURI":"https://codeitdown.ml/",
+    "firstLineIntro":"🚀 Exploring opportunities and side projects.",
+    "secondLineIntro":"🎓 Currently working as a Operations Executive - Trainee @ Infosys",
+    "resume":"https://drive.google.com/file/d/1QlNVTD_aQzZGy96GP3DsxmK6krYwO0PD/view?usp=sharing",
+    "socialLinks":{
+        "github":"https://github.com/coderaman07",
+        "linkedin":"https://linkedin.com/in/coderaman07",
+        "gmail":"mailto:coderaman07@gmail.com",
+        "instagram":"https://instagram.com/iblamecode",
+        "reddit":"https://reddit.com/u/loneJaguar69",
+        "blog":"https://codeitdown.ml/",
+        "twitter":"https://twitter.com/coderaman07",
+        "facebook":"",
+        "youtube":"",
+        "dev":"https://dev.to/coderaman07",
+        "telegram":"",
+        "spotify":""
+    },
+    "firstParaIntro":"Hey! I'm Aman Ojha, I've been close to a computer since an early age, and been passionate about it ever since.",
+    "secondParaIntro":"I really like to develop stuffs like in an instant it feels like I went from Coding Prograam which look like a terminal window to Developing Web Apps using mordern Web Frameworks, Games using Latest Game Engine and Android and IOS Apps using Mordern Cross Platform App Dev Enviroment. I'm interested in building something awesome with code and automate tasks with code, currently focused on Web & Mobile Development, Open Source and Competitive Programming.",
+    "thirdParaIntro":"When I'm not coding I play games with my friends, watch some show on Netflix."
+}
