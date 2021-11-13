@@ -10,9 +10,8 @@ import {
 } from '@chakra-ui/react'
 import { FaEnvelope, FaGithub, FaLinkedin, FaInstagramSquare, FaBlog, FaReddit, FaTwitter, FaFacebook, FaYoutube, FaDev, FaTelegram, FaSpotify } from 'react-icons/fa'
 import useMediaQuery from '../hook/useMediaQuery'
-import ReactGA from 'react-ga'
 import data from './Data.json'
-import IntroductionButton from './decoratedIntroductionButton'
+import IntroductionButton from './DecoratedIntroductionButton'
 
 export default function Introduction() {
   const isLargerThan800 = useMediaQuery(800)
