@@ -77,6 +77,7 @@ export async function getStaticProps() {
     props:{
       articles,
       projects
-    }
+    },
+    revalidate: 60
   }
 }
