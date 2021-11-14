@@ -116,6 +116,7 @@ export default function Cards({
       minH="320px"
       maxH="500px"
       border="1px"
+      width={!isLargerThan800 && '21em'}
       borderColor={{ base: '#333', md: 'borderColor' }}
     >
       <Link href={deployLink} isExternal>
@@ -123,6 +124,7 @@ export default function Cards({
           <Image
             width={1250}
             height={600}
+            maxHeight={300}
             w="auto"
             h="auto"
             src={imageURL}
