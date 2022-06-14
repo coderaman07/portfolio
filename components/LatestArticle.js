@@ -13,7 +13,7 @@ export default function LatestArticle({ articles }) {
       w="100%"
       display={articles.length < 2 ? 'none' : 'block'}
     >
-      <SlideUpWhenVisible>
+      <SlideUpWhenVisible key={0}>
         <Flex alignItems="center" justifyContent="space-between">
           <Heading fontSize={{ base: 'xl', md: '2xl' }} fontFamily="Ubuntu">
             📰 Latest Article.
@@ -29,7 +29,7 @@ export default function LatestArticle({ articles }) {
       </SlideUpWhenVisible>
       <SimpleGrid columns={{ sm: 1, md: 2 }} spacing={{ base: 2, md: 4 }}>
         {articles.map((article, index) => (
-          <SlideUpWhenVisible>
+          <SlideUpWhenVisible key={article.id}>
             <Link
               href={ data.blogURI + 'posts/' + article.slug}
               _hover={{ textDecoration: 'none' }}

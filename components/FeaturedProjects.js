@@ -25,7 +25,7 @@ export default function FeaturedProjects() {
     <>
       <Stack spacing={8} w="full">
         <SimpleGrid columns={{ sm: 1, md: 2 }} spacing={16}>
-          <SlideUpWhenVisible threshold={0.1}>
+          <SlideUpWhenVisible threshold={0.1} key={0}>
             <Stack spacing={1}>
               <Stack
                 isInline
@@ -79,6 +79,8 @@ export default function FeaturedProjects() {
                 <SlideUpWhenVisible>
                   <Box mt={{ md: '-50%' }}>
                     <Cards
+                      key={project.id}
+                      {...console.log(project.id)}
                       imageURL={project.imageURI}
                       title={project.projectName}
                       desc={project.projectDesc}
@@ -93,6 +95,8 @@ export default function FeaturedProjects() {
               return (
                 <SlideUpWhenVisible>
                   <Cards
+                    key={project.id}
+                    {...console.log(project.id)}
                     imageURL={project.imageURI}
                     title={project.projectName}
                     desc={project.projectDesc}
