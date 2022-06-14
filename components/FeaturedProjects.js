@@ -80,7 +80,6 @@ export default function FeaturedProjects() {
                   <Box mt={{ md: '-50%' }}>
                     <Cards
                       key={project.id}
-                      {...console.log(project.id)}
                       imageURL={project.imageURI}
                       title={project.projectName}
                       desc={project.projectDesc}
@@ -96,7 +95,6 @@ export default function FeaturedProjects() {
                 <SlideUpWhenVisible>
                   <Cards
                     key={project.id}
-                    {...console.log(project.id)}
                     imageURL={project.imageURI}
                     title={project.projectName}
                     desc={project.projectDesc}
