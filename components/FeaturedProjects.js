@@ -56,7 +56,7 @@ export default function FeaturedProjects() {
                 </NextLink>
               </Stack>
               <Text fontSize={{ base: 'md', md: 'xl' }} color="textSecondary">
-                Here's some of my projects that I have worked on.
+                Here&apos;s some of my projects that I have worked on.
               </Text>
               <NextLink href="/projects">
                 <Link

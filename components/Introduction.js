@@ -41,7 +41,7 @@ export default function Introduction() {
               position="relative"
               zIndex={1}
             >
-              Hey there!, I'm-
+              Hey there!, I&apos;m-
             </Text>
           </Box>
           <Heading

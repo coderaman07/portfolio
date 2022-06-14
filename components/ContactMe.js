@@ -30,7 +30,7 @@ export default function ContactMe() {
 
         <SlideUpWhenVisible>
           <Text fontSize="md" color="textSecondary" textAlign="center">
-            I'm currently open to work as a{' '}
+            I&apos;m currently open to work as a{' '}
             <Link
               href={`${data.blogURI}contact`}
               isExternal
@@ -44,7 +44,7 @@ export default function ContactMe() {
                 {data.dreamDesignation}.
               </chakra.span>
             </Link>
-            <br /> Let's get in touch and talk more about your projects.
+            <br /> Let&apos;s get in touch and talk more about your projects.
           </Text>
         </SlideUpWhenVisible>
 

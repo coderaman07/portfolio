@@ -106,6 +106,7 @@ const MDXComponents = {
       h="auto"
       mx="auto"
       {...props}
+      alt={"Image Description"}
     />
   ),
   inlineCode: (props) => (

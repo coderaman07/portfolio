@@ -68,10 +68,10 @@ export default function Projects() {
             </Heading>
             <Text fontSize={{ base: '14px', md: '16px' }}>
               I love building projects and practice my Programming skills,
-              here's an archive of things that I've worked on.
+              here&apos;s an archive of things that I&apos;ve worked on.
             </Text>
             <InputGroup maxW="400px">
-              <InputRightElement pointerEvents="none" children={<FaSearch />} />
+              <InputRightElement pointerEvents="none" children={FaSearch} />
               <Input
                 type="text"
                 placeholder="Search projects"
