@@ -1,58 +1,62 @@
 [
     {
         "id":1,
-        "projectName":"Code it Down ( Blog Web App )",
+        "projectName":"Portfolio",
         "imageURI":"https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
         "tags":[
             "Next.js", "JSON", "React", "SEO", "JavaScript"
         ],
-        "ProjectRepoLink":"https://github.com/coderaman07",
-        "liveLink":"https://codeitdown.ml",
-        "projectDesc":"A Blog Web App which uses Django as a Backend Service and is Developed with Next.js, you can Add a New Blog Post using any Backend Service you want and it will load it up from the CMS, and the users can also Like, Comment and even Share the Blog Post to Some Social Media Websites"
+        "ProjectRepoLink":"https://github.com/coderaman07/portfolio",
+        "liveLink":"https://amanojha.ml",
+        "projectDesc":"A Portfolio Web App developed with Next.js hosted on Vercel"
     },
     {
         "id":2,
-        "projectName":"Code it Down ( Back-end Of Blog App )",
+        "projectName":"Code it Down ( Blog Web App )",
         "imageURI":"https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=781&q=80",
         "tags":[
-            "Python", "Django", "SQL", "Rest API"
+            "Next.js",
+            "JSON",
+            "React",
+            "SEO",
+            "JavaScript"
         ],
-        "ProjectRepoLink":"https://github.com/coderaman07/Down-the-Code-Back-End",
+        "ProjectRepoLink":"https://github.com/coderaman07/codeitdown",
         "liveLink":"https://codeitdown.ml",
-        "projectDesc":"A Back-end of a Blog App ( Code it Down ) using Python and Django Rest Framework. It handles all the Sending E - mails to the users whenever there is any New Blog Post available by the User."
+        "projectDesc":"A Blog Web App developed with Next.js and SCSS as a FrontEnd and Django as a Backend. The FrontEnd is Hosted on Vercel and Backend on PythonAnywhere."
     },
     {
         "id":3,
-        "projectName":"E - Commerce Web App",
+        "projectName":"Auto Poster",
         "imageURI":"https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=889&q=80",
         "tags":[
-            "Django", "HTML", "CSS", "JavaScript", "Python", "Video"
+            "Python", "Social Media Manager", "Automation", "API"
         ],
-        "ProjectRepoLink":"https://github.com/coderaman07/Down-the-Code-Back-End",
-        "liveLink":"https://rushx.pythonanywhere.com",
-        "projectDesc":"E - Commerce Web App Developed with Django as Backend and HTML, CSS and JavaScript as Front-End for the App, the User can easily Purchase the Products from the Web App and can get the Download links easily on the Mail Address provided at the time of Purchasing"
+        "ProjectRepoLink":"https://github.com/coderaman07/Auto-Poster",
+        "liveLink":"",
+        "projectDesc":"A Highly efficient Cross Platform Desktop App which is easy to use and highly secure through which a user can easily post on his/her social media."
     },
     {
         "id":4,
-        "projectName":"Dragoon ( Twitter BOT )",
+        "projectName":"Usefull Scripts for Automation",
         "imageURI":"https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
         "tags":[
-            "Python"
+            "Python", "Automation", "Desktop App", "Golang"
         ],
-        "ProjectRepoLink":"https://github.com/coderaman07/Down-the-Code-Back-End",
-        "liveLink":"https://twitter.com/shaytweeter",
-        "projectDesc":"Twitter Bot Created for Retweeting the Tweets Made on Twitter. This BOT is made with Python and will Re - tweet the tweets. But first Include These two hashtags in your tweet else there will be a low Possibility of Re-tweeting the Tweets. Ofcourse I will not be Sitting and selecting a Re - tweet option in your tweet. So I targeted the hashtag feature of twitter."
+        "ProjectRepoLink":"https://github.com/coderaman07/Usefull-Scripts",
+        "liveLink":"",
+        "projectDesc":"A Collection of Scripts mostly made with Python and Golang as they both include cros platform feature with no aditional dependancies."
     },
     {
         "id":5,
-        "projectName":"AnimeX",
-        "imageURI":"https://animex.pythonanywhere.com/static/images/favicon.png",
+        "projectName":"Code Runner ( 3 D Game )",
+        "imageURI":"https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "tags":[
             "Some", "tags"
         ],
-        "ProjectRepoLink":"https://github.com/coderaman07/Down-the-Code-Back-End",
-        "liveLink":"https://animex.pythonanywhere.com/",
-        "projectDesc":"A Video Watching Website Developed with Django as Backend and HTML, CSS and JavaScript and used 4anime.to's API to make the Video available to the users."
+        "ProjectRepoLink":"https://github.com/coderaman07/Cube-Runner",
+        "liveLink":"",
+        "projectDesc":"A Unity Project which is a remake game of Subways Surfurs but it didn't gone as I was thinking due to exams and Job but I'll get back to it later on"
     }
 
 ]

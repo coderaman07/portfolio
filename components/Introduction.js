@@ -45,8 +45,6 @@ export default function Introduction() {
             </Text>
           </Box>
           <Heading
-            color="textPrimary"
-            fontSize="display"
             lineHeight={'95%'}
             fontSize="display"
             color="displayColor"
