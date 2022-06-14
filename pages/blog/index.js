@@ -62,7 +62,9 @@ export default function Index({ articles }) {
           experiences.
         </Text>
         <InputGroup maxW="400px">
-          <InputRightElement pointerEvents="none" children={FaSearch()} />
+          <InputRightElement pointerEvents="none">
+            <FaSearch />
+          </InputRightElement>
           <Input
             type="text"
             placeholder="Search articles"

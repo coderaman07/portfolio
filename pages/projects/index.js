@@ -71,7 +71,9 @@ export default function Projects() {
               here&apos;s an archive of things that I&apos;ve worked on.
             </Text>
             <InputGroup maxW="400px">
-              <InputRightElement pointerEvents="none" children={FaSearch()} />
+              <InputRightElement pointerEvents="none">
+                <FaSearch />
+              </InputRightElement>
               <Input
                 type="text"
                 placeholder="Search projects"
