@@ -15,7 +15,6 @@
     "contentful": "^8.3.7",
     "cors": "^2.8.5",
     "dateformat": "^4.5.1",
-    "firebase": "^8.6.7",
     "framer-motion": "^4",
     "gray-matter": "^4.0.3",
     "mdx-prism": "^0.3.1",
